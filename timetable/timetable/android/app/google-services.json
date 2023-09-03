@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844447724386",
+    "project_id": "infobd-869c0",
+    "storage_bucket": "infobd-869c0.appspot.com"
+  },
+  "client": [
+  
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844447724386:android:4bf9958cd9f17d3f0e323b",
+        "android_client_info": {
+          "package_name": "com.example.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844447724386-32e72agsgi4t1ii1d4rani2o7hrmskkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc4EDheuwa9s2NwHKHgFTh6X_qnPtsICc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844447724386-32e72agsgi4t1ii1d4rani2o7hrmskkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
